@@ -1,0 +1,20 @@
+[
+    {
+        "header": "Paragraph 1",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "start_index": 0,
+        "end_index": 137
+    },
+    {
+        "header": "Paragraph 2",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco \nlaboris nisi ut aliquip ex ea commodo consequat.",
+        "start_index": 139,
+        "end_index": 260
+    },
+    {
+        "header": "Paragraph 3",
+        "content": "Duis aute irure dolor in reprehenderit in voluptate velit \nesse cillum dolore eu fugiat nulla pariatur.",
+        "start_index": 262,
+        "end_index": 378
+    }
+]
